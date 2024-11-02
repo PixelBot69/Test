@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams } from 'react-router-dom';
-import projects from './data'; // Ensure you import your projects data here
-import img1 from './img1.jpg'; // Your custom logo images
+import projects from './data'; 
+import img1 from './img1.jpg'; 
 import img2 from './img2.jpg';
 import img3 from './img3.png';
 
